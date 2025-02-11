@@ -1,2 +1,4 @@
 runtime: go
 env: flex
+runtime_config:
+  go_version: "1.20"
