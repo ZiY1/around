@@ -1,2 +1,2 @@
-runtime: go116
+runtime: go
 env: flex
